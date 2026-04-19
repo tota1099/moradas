@@ -1,13 +1,12 @@
 # 📄 PRD - Documento de Requisitos do Produto
 
-**Projeto:** CondosManager API  
-**Status:** Em Planejamento  
-**Responsável:** [Seu Nome]
+**Projeto:** Moradas
+**Status:** Em Planejamento
 
 ---
 
 ## 1. Visão Geral do Produto
-O **CondosManager** é uma plataforma de gestão interna para condomínios. Diferente de grandes ERPs de administração financeira, o foco aqui é a **vivência e conformidade**. O sistema visa substituir murais de papel e grupos informais de mensagens por uma trilha oficial de comunicação e registros de notificações/multas.
+O **Moradas** é uma plataforma de gestão interna para condomínios. Diferente de grandes ERPs de administração financeira, o foco aqui é a **vivência e conformidade**. O sistema visa substituir murais de papel e grupos informais de mensagens por uma trilha oficial de comunicação e registros de notificações/multas.
 
 ## 2. Personas (Atores)
 - **Admin Geral:** Desenvolvedor ou operador do sistema que cadastra condomínios e síndicos iniciais.
